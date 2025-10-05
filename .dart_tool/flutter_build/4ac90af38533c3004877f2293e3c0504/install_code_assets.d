@@ -1,0 +1,1 @@
+ C:\\Users\\tsatl\\Desktop\\tsat_backend\\tsat_app\\.dart_tool\\flutter_build\\4ac90af38533c3004877f2293e3c0504\\native_assets.json: 
